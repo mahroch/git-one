@@ -2,5 +2,5 @@ body {
   color:red;
   margin: 20px;
   padding: 30px;
-  text-decoration: overline;
+  text-decoration: line-through;
 }
